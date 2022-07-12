@@ -3,5 +3,3 @@ I added this line for new changes.
 
 New line for GitGui
 New example for training
-
-I try to anderstand how it is work
