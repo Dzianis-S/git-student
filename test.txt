@@ -3,3 +3,5 @@ I added this line for new changes.
 
 New line for GitGui
 New example for training
+
+I think that I anderstand what problem is in my access password
